@@ -11,9 +11,6 @@ PFP was made by [alinalal_](https://twitter.com/alinalal_) and can be found here
 
 <p align="center">
   <a href="https://github.com/PythiaUF">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PythiaUF&show_icons=true&hide_rank=true&theme=material-palenight" />
-  </a>
-  <a href="https://github.com/PythiaUF">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythiaUF&layout=compact&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PythiaUF&show_icons=true&theme=prussian&count_private=true" />
   </a>
 </p>
