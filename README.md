@@ -1,16 +1,19 @@
-### Hi there 👋
+# Pythia
 
-<!--
-**PythiaUF/PythiaUF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm just a girl who codes at UF. I'm in Computer Science, and will graduate by 2026.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on APIs for the API group at the Open Source Club
+- 🌱 I’m currently learning Python and C++
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: This is an alt account! My main account is a public-facing one, and people could find out where I live if I gave this up, so...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PFP was made by [alinalal_](https://twitter.com/alinalal_) and can be found here: [link](https://twitter.com/alinalal_/status/1508519388504158213).
+
+<p align="center">
+  <a href="https://github.com/PythiaUF">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PythiaUF&show_icons=true&hide_rank=true&theme=material-palenight" />
+  </a>
+  <a href="https://github.com/PythiaUF">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythiaUF&layout=compact&theme=material-palenight" />
+  </a>
+</p>
