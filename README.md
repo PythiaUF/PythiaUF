@@ -11,6 +11,6 @@ PFP is of Mitsuru from Persona 3 Reload.
 
 <p align="center">
   <a href="https://github.com/PythiaUF">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PythiaUF&show_icons=true&theme=prussian&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PythiaUF&show_icons=true&theme=omni&count_private=true" />
   </a>
 </p>
