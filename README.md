@@ -7,7 +7,7 @@ Hey! I'm just a girl coding things at UF! I'm in Computer Science, and will grad
 - 😄 Pronouns: she/her - might as well mention I'm trans 🏳️‍⚧️
 - ⚡ Fun fact: This is an alt account! My main account is a public-facing one, so I can't quite use that for UF.
 
-PFP was made by [alinalal_](https://twitter.com/alinalal_) and can be found here: [link](https://twitter.com/alinalal_/status/1508519388504158213).
+PFP is of Mitsuru from Persona 3 Reload.
 
 <p align="center">
   <a href="https://github.com/PythiaUF">
